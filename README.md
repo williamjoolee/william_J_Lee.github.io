@@ -11,9 +11,9 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# William Lee 
+## "Stop chasing the money and start chasing the passion." Tony Hsieh
+### It's not the size of data, it's how you use it.
 
 - Bulleted
 - List
